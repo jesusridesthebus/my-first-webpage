@@ -1,5 +1,11 @@
+html {
+  /* background-image: url("../img/background.gif"); */
+  /* background-size: cover; */
+}
+
 body {
   background: #5CE6C2;
+  color: #ED10E1;
   font-family: arial;
 }
 
